@@ -4,7 +4,7 @@
     "description": "Connect your SIA-DCS compatible alarm system to node-red. It works with Ajax System too.",
     "author": "Supergiovane (https://github.com/Supergiovane)",
     "dependencies": {
-        "xml2js": "0.4.23",
+        "xml2js": "0.5.0",
         "node-fetch": "2.6.1",
         "digest-fetch": "1.1.5",
         "abort-controller": "3.0.0",
